@@ -6,9 +6,9 @@ langauge operations, branches, and logic. Program follows the
 System V x86 calling convention. 
 
 Abstract:
-The assignment was to impliment a CRC algorithm in assembly, in this
+The assignment was to impliment a CRC algorithm in x86-64 assembly, in this
 case CRC-8, which outputs a 8-bit signature while using the polynomial
-0x5D (CRC-8 DVB-S2).
+0xD5 (CRC-8 DVB-S2).
 
 Using the Program:
 Run the 'make' command, this will generate three versions of the program.
